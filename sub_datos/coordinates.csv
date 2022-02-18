@@ -1,0 +1,484 @@
+"","decimalLongitude","decimalLatitude","Elevation","ParamoComplex","Department","Locality","Tmean","Prec"
+"1",-75.967333,3.975472,3500,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Tulua: Santa Lucia, Cuenca Rio Tulua, Cgto. Santa Lucia, Fca. la Cascada",8.4,1643
+"2",-75.59945,4.395417,2970,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Cordoba: Vda. Las Auras, Fca. el Porvenir",9.4,1635
+"3",-76.942639,1.536028,3230,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: La Cruz: La Estancia, Vda. Paramito, Reserva Santa Helena",10,2346
+"4",-76.938472,1.526361,3447,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: La Cruz: La Estancia, Vda. Paramito, Reserva Santa Helena",9.1,2426
+"5",-75.485642,4.824056,3691,"Complejo de Paramos Los Nevados (NVS)","Risaralda","Risaralda: Santa Rosa de Cabal: Vda. La Linda, Sector Cortaderal, Hacienda La Sierra",6.9,2128
+"6",-75.256058,4.881497,3820,"Complejo de Paramos Los Nevados (NVS)","Tolima","Tolima: Murillo: Cgto. El Bosque, Vda. La Cabana, Fca. El Recreo",6.1,2120
+"7",-77.181333,0.99775,2810,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Pasto: El Encano , Vda. Santa Lucia",12.2,1378
+"8",-76.05925,6.503556,3407,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Caicedo: Vda. Anocozca, Paramo El Junco",9.3,2816
+"9",-76.967944,1.471389,2639,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: El Tablon de Gomez: Las Mesas, Vda. La Lava, Laguna el Silencio",12.5,2004
+"10",-76.957028,1.469528,2899,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: El Tablon de Gomez: Las Mesas, Vda. La Lava, Laguna el Silencio",11.1,2314
+"11",-72.721642,6.398106,2854,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Tipacoque: Parque Natural Municipal Robledales de Tipacoque, Vda. La Calera",12,1233
+"12",-72.731844,6.396181,3090,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Tipacoque: Parque Natural Municipal Robledales de Tipacoque, Vda. La Calera",10.9,1224
+"13",-75.807667,3.983944,3120,"Complejo de Paramos Chili-Barragan (CBG)","Valle del Cauca","Valle del Cauca: Sevilla: Cuenca Rio Bugalagrande, Vda. Miraflores, Fca. la Traviata",7.7,1669
+"14",-75.79985,4.08985,3625,"Complejo de Paramos Chili-Barragan (CBG)","Valle del Cauca","Valle del Cauca: Sevilla: Vda. San Juan, Fca. Miravalle",6.4,1823
+"15",-75.800417,4.090367,3625,"Complejo de Paramos Chili-Barragan (CBG)","Valle del Cauca","Valle del Cauca: Sevilla: Vda. San Juan, Fca. Miravalle",7.7,1669
+"16",-77.671139,1.108861,3398,"Complejo de Paramos Chiles-Cumbal (CHC)","Narino","Narino: Tuquerres: San Roque, Vda. Esnambud",10.3,1196
+"17",-75.267428,4.890081,3640,"Complejo de Paramos Los Nevados (NVS)","Tolima","Tolima: Murillo: Cgto. El Bosque, Vda. La Cabana, Fca. El Recreo",4.7,2143
+"18",-75.267428,4.890081,3632,"Complejo de Paramos Los Nevados (NVS)","Tolima","Tolima: Murillo: Cgto. El Bosque, Vda. La Cabana, Fca. El Recreo",4.7,2143
+"19",-75.263217,4.873558,4000,"Complejo de Paramos Los Nevados (NVS)","Tolima","Tolima: Murillo: Cgto. El Bosque, Vda. La Cabana, Fca. El Recreo",5.1,2127
+"20",-75.231531,4.899778,3500,"Complejo de Paramos Los Nevados (NVS)","Tolima","Tolima: Murillo: Cgto. El Bosque, Vda. La Cabana, Fca. El Recreo",7.4,2060
+"21",-75.488386,4.813414,3813,"Complejo de Paramos Los Nevados (NVS)","Risaralda","Risaralda: Santa Rosa de Cabal: Vda. La Linda, Sector Cortaderal, Hacienda La Sierra",6.1,2152
+"22",-73.115128,5.945564,3193,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Duitama: Paramo de la Rusia - Virolin, Vda. El Carmen",9.8,1173
+"23",-72.598111,7.220833,2700,"Complejo de Paramos Almorzadero (ALM)","Norte de Santander","Norte de Santander: Chitaga: Vda. Tane",11.5,1052
+"24",-75.798556,3.998556,3520,"Complejo de Paramos Chili-Barragan (CBG)","Valle del Cauca","Valle del Cauca: Sevilla: Cuenca Rio Bugalagrande, Vda. Miraflores, Fca. la Traviata",7.2,1729
+"25",-75.993694,3.316139,3520,"Complejo de Paramos Las Hermosas (HMS)","Tolima","Tolima: Rioblanco: Herrera, Cuenca Rio Hereje, Vda. las Mercedes, predio el Auxilio",9.9,2022
+"26",-75.998028,3.315944,3520,"Complejo de Paramos Las Hermosas (HMS)","Tolima","Tolima: Rioblanco: Herrera, Cuenca Rio Hereje, Vda. las Mercedes, predio el Auxilio",9.9,2022
+"27",-75.998222,3.314972,3320,"Complejo de Paramos Las Hermosas (HMS)","Tolima","Tolima: Rioblanco: Herrera, Cuenca Rio Hereje, Vda. las Mercedes, predio el Auxilio",9.9,2022
+"28",-75.579283,4.4441,3370,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Calarca: Vda. El Tunel, Sector El CampanaRio",8,1781
+"29",-75.597533,4.37055,3370,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Cordoba: Vda. Las Auras, Fca. el Porvenir",7.7,1748
+"30",-75.582,4.444117,3290,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Calarca: Vda. El Tunel, Sector El CampanaRio",8,1781
+"31",-75.581167,4.444017,3290,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Calarca: Vda. El Tunel, Sector El CampanaRio",8,1781
+"32",-75.5896,4.367967,3570,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Cordoba: Vda. Las Auras, Fca. el Porvenir",7,1817
+"33",-75.5982,4.371317,3370,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Cordoba: Vda. Las Auras, Fca. el Porvenir",7.7,1748
+"34",-75.576631,4.437231,3530,"Complejo de Paramos Chili-Barragan (CBG)","Tolima","Tolima: Cajamarca: Vda. El Tunel, Sector El CampanaRio",7.2,1835
+"35",-75.57675,4.4455,3450,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Calarca: Vda. El Tunel, Sector El CampanaRio",8,1781
+"36",-75.577217,4.44585,3450,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Calarca: Vda. El Tunel, Sector El CampanaRio",8,1781
+"37",-75.577883,4.444817,3370,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Calarca: Vda. El Tunel, Sector El CampanaRio",8,1781
+"38",-75.419917,4.618667,3470,"Complejo de paramos Los Nevados (NVS)","Quindio","Quindio: Salento: Vda. Cocora, predio Estrella de Agua, Sector Paramo de Frontino",6.9,1951
+"39",-75.4192,4.616517,3560,"Complejo de paramos Los Nevados (NVS)","Quindio","Quindio: Salento: Vda. Cocora, predio Estrella de Agua, Sector Paramo de Frontino",7,1942
+"40",-75.418583,4.617433,3560,"Complejo de paramos Los Nevados (NVS)","Quindio","Quindio: Salento: Vda. Cocora, predio Estrella de Agua, Sector Paramo de Frontino",6.9,1951
+"41",-76.82775,1.704306,3400,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Cauca","Cauca: Bolivar: San Juan, Vda. Belen, Cerro El Banco",8.9,2263
+"42",-77.295139,0.982361,3389,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Pasto: Santa Barbara, Vda. Los Alisales",8.5,1849
+"43",-77.246667,1.271922,3430,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Pasto: Buesaquillo, Vda. La Cuchilla",10.2,1840
+"44",-75.387636,5.074553,3491,"Complejo de Paramos Los Nevados (NVS)","Caldas","Caldas: Manizales: Vda. El Desquite, Fca. Martinica, Reserva Forestal Protectora Rio Blanco",7.8,2233
+"45",-75.385119,5.071422,3545,"Complejo de Paramos Los Nevados (NVS)","Caldas","Caldas: Manizales: Vda. El Desquite, Fca. Martinica, Reserva Forestal Protectora Rio Blanco",7.8,2233
+"46",-73.76225,4.895933,3250,"Complejo de Paramos Chingaza (CHG)","Cundinamarca","Cundinamarca: Guatavita: Vda. Monquentiva, Pantano de Martos",9.8,1421
+"47",-73.730444,4.908583,3030,"Complejo de Paramos Chingaza (CHG)","Cundinamarca","Cundinamarca: Guatavita: Vda. Monquentiva, Pantano de Martos",11.4,1541
+"48",-73.86375,4.732139,3500,"Complejo de Paramos Chingaza (CHG)","Cundinamarca","Cundinamarca: Guasca: Vda. Rincon del Oso, Fca. Suasie",8.6,1310
+"49",-73.117528,5.457833,3317,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Pesca: Via hacia Rondon y Zetaquira, Vda. La Carbonera",9.8,915
+"50",-72.705917,5.501111,3330,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Aquitania: Paramo de Franco",9.1,1350
+"51",-72.720639,5.503139,3564,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Aquitania: Paramo de Franco",9.9,1224
+"52",-74.093331,4.3453,3499.4088,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"53",-74.118017,4.2531,3279,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",8.6,1329
+"54",-74.096431,4.343711,3589.6296,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"55",-74.110083,4.25435,3645,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"56",-74.11265,4.255917,3482,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"57",-74.294069,4.214811,3420,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",8,1315
+"58",-74.098361,4.34375,3675.2784,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"59",-74.290339,4.211481,3580,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",7.3,1371
+"60",-74.394517,3.922633,3348,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.7,1403
+"61",-74.1182,4.2535,3280,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",8.6,1329
+"62",-73.996111,4.55,3349,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",8.8,1196
+"63",-74.096381,4.34395,3589.02,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"64",-73.983417,4.550472,3472,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",8.7,1206
+"65",-74.39965,3.922017,3356,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.7,1403
+"66",-74.112583,4.256417,3474,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"67",-74.096411,4.343811,3591.1536,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"68",-73.996694,4.549167,3355,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",8.6,1205
+"69",-74.293589,4.214131,3428,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",8,1315
+"70",-74.118,4.253583,3287,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",8.6,1329
+"71",-74.0935,4.345181,3502.152,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"72",-74.093731,4.346031,3400.6536,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"73",-72.622306,6.773111,3300,"Complejo de Paramos Almorzadero (ALM)","Santander","Santander: Concepcion: Vda. Aguabri, Jurado",7,1595
+"74",-72.617611,6.665472,3045,"Complejo de Paramos Almorzadero (ALM)","Santander","Santander: Carcasi: Vda. Victarigua, La Palma, Alto de Curubita",7.7,1593
+"75",-72.834083,6.986222,3210,"Complejo de Paramos Almorzadero (ALM)","Santander","Santander: Guaca: Cgto. Baraya, Vda. La Planada",8,1245
+"76",-72.629639,6.77425,3090,"Complejo de Paramos Almorzadero (ALM)","Santander","Santander: Concepcion: Vda. Aguabri, Jurado",8.7,1486
+"77",-73.105497,5.943697,3401,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Duitama: Paramo de la Rusia - Virolin, Vda. El Carmen",8.3,1233
+"78",-72.781564,6.213375,3418,"Complejo de Paramos Guantiva-La Rusia (GLR)","Santander","Santander: Onzaga: Vda. Chaguaca",7.8,1602
+"79",-73.194194,5.831222,3230,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Sotaquira: Vda. Carrizal Bajo",10.1,1105
+"80",-73.302444,5.845222,3043,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Sotaquira: Vda. Avendanos",11.9,1343
+"81",-73.384722,5.734222,3067,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Arcabuco: Vda. Rupavita",9.8,1148
+"82",-74.402817,3.932067,3106,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",10,1307
+"83",-74.309,4.215289,3114,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",10.5,1134
+"84",-74.3101,4.215689,3088,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",10.5,1134
+"85",-74.3029,4.215619,3277,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",9,1239
+"86",-74.309839,4.215731,3095,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",10.5,1134
+"87",-74.400567,3.927383,3249,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",10,1307
+"88",-74.4005,3.927433,3250,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",10,1307
+"89",-74.402817,3.932233,3104,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",10,1307
+"90",-73.106775,5.943172,3384,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Duitama: Paramo de la Rusia - Virolin, Vda. El Carmen",8.3,1233
+"91",-72.782981,6.228489,3005,"Complejo de Paramos Guantiva-La Rusia (GLR)","Santander","Santander: Onzaga: Vda. Chaguaca",10.6,1194
+"92",-76.977389,1.472028,2652,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: El Tablon de Gomez: Las Mesas, Vda. La Lava, Laguna el Silencio",13,1920
+"93",-73.780722,4.7605,3250,"Complejo de Paramos Chingaza (CHG)","Cundinamarca","Cundinamarca: Guasca: Vda. La Concepcion, BioAndina",10.1,1543
+"94",-73.726089,4.9015,2940,"Complejo de Paramos Chingaza (CHG)","Cundinamarca","Cundinamarca: Guatavita: Vda. Monquentiva, Pantano de Martos",11.5,1569
+"95",-72.701667,5.507333,3190,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Aquitania: Paramo de Franco",9.1,1350
+"96",-74.09265,4.356681,3231.7944,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"97",-74.095531,4.355361,3346.0944,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"98",-74.095481,4.355131,3344.5704,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"99",-74.09555,4.355231,3346.0944,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"100",-74.092511,4.35675,3214.7256,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"101",-74.094731,4.357181,3354.6288,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"102",-72.623306,6.666556,3285,"Complejo de Paramos Almorzadero (ALM)","Santander","Santander: Carcasi: Vda. Victarigua, La Palma, Alto de Curubita",7.7,1593
+"103",-72.540167,7.481472,2630,"Complejo de Paramos Tama (TMA)","Norte de Santander","Norte de Santander: Toledo: Vda. Quebrada Grande, Paramo de Mejue",12.1,968
+"104",-72.630639,7.152889,3041,"Complejo de Paramos Almorzadero (ALM)","Norte de Santander","Norte de Santander: Chitaga: Vda. Siaga",9.1,1193
+"105",-76.075556,3.539278,3295,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Palmira: Cuenca Rio Amaime, Vda. la Nevera, Fca. la Victoria",8.1,2004
+"106",-75.8065,3.996028,3120,"Complejo de Paramos Chili-Barragan (CBG)","Valle del Cauca","Valle del Cauca: Sevilla: Cuenca Rio Bugalagrande, Vda. Miraflores, Fca. la Traviata",8.6,1527
+"107",-75.804133,4.096483,3625,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Genova: Vda. San Juan, Fca. Miravalle",8.9,1477
+"108",-75.807867,4.10015,3625,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Genova: Vda. San Juan, Fca. Miravalle",11.7,1136
+"109",-75.805183,4.096383,3625,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Genova: Vda. San Juan, Fca. Miravalle",8.9,1477
+"110",-75.583567,4.445033,3210,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Calarca: Vda. El Tunel, Sector El CampanaRio",9.9,1655
+"111",-75.424783,4.615733,3310,"Complejo de paramos Los Nevados (NVS)","Quindio","Quindio: Salento: Vda. Cocora, predio Estrella de Agua, Sector Paramo de Frontino",7,1942
+"112",-75.284861,5.346806,3506,"Complejo de Paramos Sonson (SSN)","Caldas","Caldas: Pensilvania: Vda. La Brigada, Paramo Valle Alto",7.9,2190
+"113",-76.693722,1.701,3188,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Cauca","Cauca: Santa Rosa: El Carmelo, Vda. Los Andes, Sector Las Animas",9.8,2067
+"114",-77.242117,1.274972,3280,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Pasto: La Merced, Cerro Morasurco",10.2,1840
+"115",-76.712694,1.998833,3495,"Complejo de Paramos Sotara (STR)","Cauca","Cauca: La Vega: Vereda Nueva Providencia, Paramo Bellones-Tres Cerrillos",8,2181
+"116",-76.695278,1.980917,3261,"Complejo de Paramos Sotara (STR)","Cauca","Cauca: La Vega: Vereda Monterredondo, Paramo de Barbillas",9.1,1929
+"117",-76.698583,1.97925,3343,"Complejo de Paramos Sotara (STR)","Cauca","Cauca: La Vega: Vereda Monterredondo, Paramo de Barbillas",9.1,1929
+"118",-76.719528,1.994806,3332,"Complejo de Paramos Sotara (STR)","Cauca","Cauca: La Vega: Vereda Nueva Providencia, Paramo Bellones-Tres Cerrillos",8.5,2084
+"119",-75.225003,4.623619,3604,"Complejo de Paramos Los Nevados (NVS)","Tolima","Tolima: Anzoategui: Cgto. Juntas, Vda. El Vergel, Hacienda Diostan",7.8,1825
+"120",-75.218997,4.628258,3529,"Complejo de Paramos Los Nevados (NVS)","Tolima","Tolima: Anzoategui: Cgto. Juntas, Vda. El Vergel, Hacienda Diostan",8.1,1814
+"121",-75.973556,3.304972,2920,"Complejo de Paramos Las Hermosas (HMS)","Tolima","Tolima: Rioblanco: Herrera, Cuenca Rio Hereje, Vda. las Mercedes, predio el Auxilio",11.8,1903
+"122",-75.4209,4.61795,3470,"Complejo de paramos Los Nevados (NVS)","Quindio","Quindio: Salento: Vda. Cocora, predio Estrella de Agua, Sector Paramo de Frontino",6.9,1951
+"123",-75.808167,4.101,3625,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Genova: Vda. San Juan, Fca. Miravalle",11.7,1136
+"124",-75.239139,5.770333,2776,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. Manzanales Arriba, Paramo La Vieja",12,2110
+"125",-75.250389,5.698028,2831,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. Chaverras, Paramo Alto de Chaverras",12.4,2079
+"126",-75.2465,5.696278,2982,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. Chaverras, Paramo Alto de Chaverras",11.6,2035
+"127",-75.236722,5.771111,2893,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. Manzanales Arriba, Paramo La Vieja",12,2110
+"128",-75.27025,5.809028,2865,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. Nori, Paramo Cerro Nori",12.2,2141
+"129",-75.255417,5.726583,3032,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. San Francisco, Paramo Las Palomas",11.7,2064
+"130",-75.268139,5.811639,3031,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. Nori, Paramo Cerro Nori",12.2,2141
+"131",-75.257083,5.727139,2867,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. San Francisco, Paramo Las Palomas",11.7,2064
+"132",-75.268,5.810306,2975,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. Nori, Paramo Cerro Nori",12.2,2141
+"133",-76.952389,1.541194,3052,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: La Cruz: La Estancia, Vda. Paramito, Reserva Santa Helena",10.8,2243
+"134",-77.352111,0.832639,2938,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Puerres: Monopamba, Vda. Desmontes Alto",12,1263
+"135",-76.703694,1.728194,2680,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Cauca","Cauca: Santa Rosa: El Carmelo, Vda. Los Andes, Sector Las Animas",12.5,1793
+"136",-76.838417,1.717917,2978,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Cauca","Cauca: Santa Rosa: El Carmelo, Vda. Los Andes, Sector Las Animas",10.8,1953
+"137",-76.834889,1.716472,3070,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Cauca","Cauca: Bolivar: San Juan, Vda. Belen, Cerro El Banco",10.5,2000
+"138",-74.309631,4.215161,3101,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",10.5,1134
+"139",-72.543528,7.476556,2490,"Complejo de Paramos Tama (TMA)","Norte de Santander","Norte de Santander: Toledo: Vda. Quebrada Grande, Paramo de Mejue",12.7,921
+"140",-73.785194,4.970639,3230,"Complejo de Paramos Chingaza (CHG)","Cundinamarca","Cundinamarca: Sesquile: Vda. Chaleche, Fca. Rodamonte",10.1,1316
+"141",-76.077806,3.536917,3420,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Palmira: Cuenca Rio Amaime, Vda. la Nevera, Fca. la Victoria",8.1,2004
+"142",-75.974306,3.305444,2920,"Complejo de Paramos Las Hermosas (HMS)","Tolima","Tolima: Rioblanco: Herrera, Cuenca Rio Hereje, Vda. las Mercedes, predio el Auxilio",11.8,1903
+"143",-72.914975,10.385581,2400,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Jagua del Pilar: Sitio Cerro Pintao",13.4,2175
+"144",-76.060139,6.502278,3373,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Caicedo: Vda. Anocozca, Paramo El Junco",9.3,2816
+"145",-76.036783,6.50985,3400,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Abriaqui: Vda. Corcovado, Paramo Pena",9.6,2819
+"146",-76.948139,1.476167,3160,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: El Tablon de Gomez: Las Mesas, Vda. La Lava, Laguna el Silencio",9.6,2477
+"147",-77.673444,1.110056,3209,"Complejo de Paramos Chiles-Cumbal (CHC)","Narino","Narino: Tuquerres: San Roque, Vda. Esnambud",10.3,1196
+"148",-77.672444,1.104694,3414,"Complejo de Paramos Chiles-Cumbal (CHC)","Narino","Narino: Tuquerres: San Roque, Vda. Esnambud",8.6,1439
+"149",-74.003778,4.542222,3151,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"150",-74.3946,3.922567,3349,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.7,1403
+"151",-74.003528,4.547306,3222,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"152",-74.004722,4.543611,3155,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"153",-72.597028,7.214528,2860,"Complejo de Paramos Almorzadero (ALM)","Norte de Santander","Norte de Santander: Chitaga: Vda. Tane",10.1,1177
+"154",-72.919458,5.938208,3321,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Cerinza: Vda. Centro Rural",8.9,1213
+"155",-76.058417,6.504667,3432,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Caicedo: Vda. Anocozca, Paramo El Junco",9.3,2816
+"156",-76.128778,6.567333,3382,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Urrao: Vda. San Ruperto, Paramo La Horqueta",10.6,2813
+"157",-76.823611,1.695694,3550,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Cauca","Cauca: Bolivar: San Juan, Vda. Belen, Cerro El Banco",8.6,2307
+"158",-75.285861,5.347639,3475,"Complejo de Paramos Sonson (SSN)","Caldas","Caldas: Pensilvania: Vda. La Brigada, Paramo Valle Alto",7.9,2190
+"159",-73.787194,4.972444,3150,"Complejo de Paramos Chingaza (CHG)","Cundinamarca","Cundinamarca: Sesquile: Vda. Chaleche, Fca. Rodamonte",10.1,1316
+"160",-73.935514,4.648025,3340,"Complejo de Paramos Chingaza (CHG)","Cundinamarca","Cundinamarca: La Calera: Vda. Jerusalen, Hacienda Terraleja",8.9,1216
+"161",-73.197333,5.835806,3380,"Complejo de Paramos Iguaque-Merchan (IGM)","Santander","Santander: Gambita: Vda. Chinata",10,1115
+"162",-74.095331,4.356,3351.5808,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"163",-74.09845,4.344311,3683.2032,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"164",-74.098411,4.34325,3675.888,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"165",-74.095344,4.355864,3351.5808,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"166",-74.095342,4.355861,3351.5808,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"167",-74.0926,4.356731,3228.7464,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"168",-74.093381,4.345561,3489.6552,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"169",-74.092181,4.357711,3232.404,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"170",-74.118233,4.253083,3280,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",8.6,1329
+"171",-74.092911,4.356511,3244.9008,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"172",-74.003278,4.547278,3226,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"173",-74.394517,3.922717,3348,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.7,1403
+"174",-74.0922,4.3576,3229.356,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"175",-74.394983,3.92305,3350,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.7,1403
+"176",-74.006306,4.53275,3104,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1176
+"177",-74.002556,4.548333,3245,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"178",-74.002972,4.547417,3233,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"179",-74.303269,4.21675,3254,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",9.6,1195
+"180",-74.394917,3.923033,3353,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.7,1403
+"181",-74.0965,4.344381,3589.6296,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"182",-74.003389,4.547306,3224,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"183",-74.309239,4.215389,3109,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",10.5,1134
+"184",-74.303131,4.216861,3251,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",9.6,1195
+"185",-74.006167,4.532972,3105,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1176
+"186",-74.3028,4.2156,3276,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",9,1239
+"187",-74.395,3.922778,3349,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.7,1403
+"188",-74.309089,4.215361,3111,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",10.5,1134
+"189",-74.117933,4.253617,3287,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",8.6,1329
+"190",-74.096481,4.344161,3591.1536,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"191",-72.734278,6.408442,3213,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Tipacoque: Parque Natural Municipal Robledales de Tipacoque, Vda. La Calera",10.2,1274
+"192",-73.113539,5.944025,3239,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Duitama: Paramo de la Rusia - Virolin, Vda. El Carmen",9.8,1173
+"193",-72.780722,6.228111,3400,"Complejo de Paramos Guantiva-La Rusia (GLR)","Santander","Santander: Onzaga: Vda. Chaguaca",10.6,1194
+"194",-75.80475,4.013667,3220,"Complejo de Paramos Chili-Barragan (CBG)","Valle del Cauca","Valle del Cauca: Sevilla: Cuenca Rio Bugalagrande, Vda. Miraflores, Fca. la Traviata",8.8,1498
+"195",-75.60505,4.379183,3170,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Cordoba: Vda. Las Auras, Fca. el Porvenir",8.8,1666
+"196",-75.584583,4.445233,3210,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Calarca: Vda. El Tunel, Sector El CampanaRio",9.9,1655
+"197",-75.424,4.615267,3310,"Complejo de paramos Los Nevados (NVS)","Quindio","Quindio: Salento: Vda. Cocora, predio Estrella de Agua, Sector Paramo de Frontino",7,1942
+"198",-75.371375,5.06365,3774,"Complejo de Paramos Los Nevados (NVS)","Caldas","Caldas: Manizales: Vda. El Desquite, Fca. Martinica, Reserva Forestal Protectora Rio Blanco",6.4,2321
+"199",-75.993889,3.315722,3320,"Complejo de Paramos Las Hermosas (HMS)","Tolima","Tolima: Rioblanco: Herrera, Cuenca Rio Hereje, Vda. las Mercedes, predio el Auxilio",9.9,2022
+"200",-75.802667,4.001,3320,"Complejo de Paramos Chili-Barragan (CBG)","Valle del Cauca","Valle del Cauca: Sevilla: Cuenca Rio Bugalagrande, Vda. Miraflores, Fca. la Traviata",7.9,1640
+"201",-75.803083,4.001,3320,"Complejo de Paramos Chili-Barragan (CBG)","Valle del Cauca","Valle del Cauca: Sevilla: Cuenca Rio Bugalagrande, Vda. Miraflores, Fca. la Traviata",7.9,1640
+"202",-75.798417,4.000806,3520,"Complejo de Paramos Chili-Barragan (CBG)","Valle del Cauca","Valle del Cauca: Sevilla: Cuenca Rio Bugalagrande, Vda. Miraflores, Fca. la Traviata",6.8,1770
+"203",-75.800639,4.088217,3625,"Complejo de Paramos Chili-Barragan (CBG)","Valle del Cauca","Valle del Cauca: Sevilla: Vda. San Juan, Fca. Miravalle",7.7,1669
+"204",-75.57705,4.440267,3530,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Calarca: Vda. El Tunel, Sector El CampanaRio",7.2,1835
+"205",-75.429328,4.618464,3230,"Complejo de paramos Los Nevados (NVS)","Quindio","Quindio: Salento: Vda. Cocora, predio Estrella de Agua, Sector Paramo de Frontino",8.4,1883
+"206",-77.579556,0.950194,3339,"Complejo de Paramos Chiles-Cumbal (CHC)","Narino","Narino: Gualmatan: Cuatis , Vda. Los Cedros",8.9,1354
+"207",-77.578167,0.956444,3406,"Complejo de Paramos Chiles-Cumbal (CHC)","Narino","Narino: Gualmatan: Cuatis , Vda. Los Cedros",8.9,1354
+"208",-75.483367,4.818161,3749,"Complejo de Paramos Los Nevados (NVS)","Risaralda","Risaralda: Santa Rosa de Cabal: Vda. La Linda, Sector Cortaderal, Hacienda La Sierra",6.9,2128
+"209",-73.934044,4.645506,3420,"Complejo de Paramos Chingaza (CHG)","Cundinamarca","Cundinamarca: La Calera: Vda. Jerusalen, Hacienda Terraleja",8.9,1216
+"210",-73.866167,4.71725,3090,"Complejo de Paramos Chingaza (CHG)","Cundinamarca","Cundinamarca: Guasca: Vda. Rincon del Oso, Fca. Suasie",10.4,1388
+"211",-73.251972,5.806917,3349,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Sotaquira: Vda. Guaguani",9.5,1113
+"212",-73.252528,5.806583,3349,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Sotaquira: Vda. Guaguani",9.5,1113
+"213",-73.252111,5.800722,3208,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Sotaquira: Vda. Guaguani",9.5,1113
+"214",-73.252306,5.806833,3349,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Sotaquira: Vda. Guaguani",9.5,1113
+"215",-73.251222,5.801861,3208,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Sotaquira: Vda. Guaguani",9.5,1113
+"216",-73.252417,5.806639,3349,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Sotaquira: Vda. Guaguani",9.5,1113
+"217",-73.227778,5.415167,3270,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Viracacha: Vda. La Isla",9.8,1005
+"218",-73.20575,5.415083,3118,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Rondon: Vda. Nueva Granada",13.3,883
+"219",-73.122861,5.560278,3454,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Toca: Via Toca y Pesca, Paramo La cortadera, Vda. La Chorrera",9.4,915
+"220",-72.717917,5.750806,3378,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Mongua: Vda. Sirguaza",7.2,1704
+"221",-73.122694,5.560639,3460,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Toca: Via Toca y Pesca, Paramo La cortadera, Vda. La Chorrera",9.4,915
+"222",-72.688556,5.744444,2980,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Mongua: Vda. Sirguaza",11.8,1003
+"223",-73.236303,5.414175,3111,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Viracacha: Vda. La Isla",10.7,939
+"224",-73.227528,5.415583,3282,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Rondon: Vda. Nueva Granada",9.8,1005
+"225",-76.099316,6.002847,3600,"Complejo de Paramos Frontino-Urrao (FRU)","Choco","Choco: El Carmen de Atrato: Sitio Cerro Plateado, Complejo Paramuno Frontino",7.7,2587
+"226",-75.907111,5.477666,2850,"Complejo de Paramos Citara (CTR)","Risaralda","Risaralda: Mistrato: Sitio Cerro Paramillo, Complejo paramuno Citara",13.2,2732
+"227",-75.90672,5.476513,2710,"Complejo de Paramos Citara (CTR)","Risaralda","Risaralda: Mistrato: Sitio Cerro Paramillo, Complejo paramuno Citara",13.2,2732
+"228",-76.109111,6.485444,3608,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Urrao: Vda. El Chuscal, Paramo El Sol",7.6,2782
+"229",-75.232639,5.774083,3247,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. Manzanales Arriba, Paramo La Vieja",12.3,2125
+"230",-76.132639,6.568917,3648,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Urrao: Vda. San Ruperto, Paramo La Horqueta",10.6,2813
+"231",-76.036017,6.511417,3397,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Abriaqui: Vda. Corcovado, Paramo Pena",9.6,2819
+"232",-76.035517,6.513033,3373,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Abriaqui: Vda. Corcovado, Paramo Pena",9.6,2819
+"233",-76.096278,6.003389,3750,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Salgar: Vda. Santa Isabel, Paramo Cerro Plateado",7.7,2587
+"234",-76.035833,6.509033,3424,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Abriaqui: Vda. Corcovado, Paramo Pena",9.6,2819
+"235",-76.107694,6.481528,3648,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Urrao: Vda. El Chuscal, Paramo El Sol",7.4,2776
+"236",-76.110222,6.487028,3541,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Urrao: Vda. El Chuscal, Paramo El Sol",7.6,2782
+"237",-76.099861,6.010278,3541,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Salgar: Vda. Santa Isabel, Paramo Cerro Plateado",9.2,2582
+"238",-76.096278,6.003389,3493,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Salgar: Vda. Santa Isabel, Paramo Cerro Plateado",7.7,2587
+"239",-76.0575,6.506722,3420,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Caicedo: Vda. Anocozca, Paramo El Junco",10,2806
+"240",-77.361278,0.839306,3170,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Puerres: Monopamba, Vda. Desmontes Alto",10.7,1384
+"241",-76.830194,1.709167,3188,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Cauca","Cauca: Bolivar: San Juan, Vda. Belen, Cerro El Banco",9.8,2100
+"242",-76.951,1.469972,3012,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: El Tablon de Gomez: Las Mesas, Vda. La Lava, Laguna el Silencio",11.1,2314
+"243",-77.215917,1.120361,3336,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Pasto: El Socorro Cimarron, Vda. Bajo Casanare",8.6,2055
+"244",-77.290028,0.976694,3211,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Pasto: Santa Barbara, Vda. Los Alisales",8.3,1887
+"245",-74.124483,4.239533,3221,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"246",-74.12385,4.2396,3203,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"247",-74.1131,4.255333,3468,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"248",-74.095211,4.356111,3332.6832,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"249",-74.303289,4.215469,3270,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",9,1239
+"250",-74.004611,4.543611,3156,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"251",-74.12335,4.237533,3151,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"252",-74.293889,4.214589,3426,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",8,1315
+"253",-74.094781,4.357331,3287.8776,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"254",-74.006139,4.531944,3108,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1176
+"255",-74.293661,4.214119,3436,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",8,1315
+"256",-74.093383,4.345433,3351.276,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"257",-74.003083,4.547333,3233,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"258",-74.004528,4.542833,3144,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"259",-74.3997,3.922133,3355,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.7,1403
+"260",-74.1245,4.23975,3223,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"261",-74.0954,4.355911,3351.276,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"262",-74.117967,4.2541,3290,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",8.6,1329
+"263",-74.006806,4.531028,3109,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1176
+"264",-74.123767,4.237533,3163,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"265",-72.596944,7.341167,2955,"Complejo de Paramos Tama (TMA)","Norte de Santander","Norte de Santander: Pamplona: Vda. Fontibon, Fca. Loma Larga",9.6,1158
+"266",-73.009792,6.045,3283,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Belen: Vda. San Jose de la Montana",8.8,1273
+"267",-72.920603,5.9417,3111,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Cerinza: Vda. Centro Rural",12.2,1068
+"268",-73.104683,5.842367,3216,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Paipa: Vda. Jazminal",10.1,1076
+"269",-73.113822,5.850756,3327,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Paipa: Vda. Jazminal",8.8,1121
+"270",-72.989969,6.042742,3477,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Belen: Vda. San Jose de la Montana",7,1480
+"271",-73.096164,5.945,3541,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Duitama: Paramo de la Rusia - Virolin, Vda. El Carmen",7,1335
+"272",-73.778,4.772722,3000,"Complejo de Paramos Chingaza (CHG)","Cundinamarca","Cundinamarca: Guasca: Vda. La Concepcion, BioAndina",11.1,1676
+"273",-74.006833,4.530917,3107,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1176
+"274",-72.784197,6.222942,3195,"Complejo de Paramos Guantiva-La Rusia (GLR)","Santander","Santander: Onzaga: Vda. Chaguaca",8.6,1450
+"275",-76.072417,3.535806,3170,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Palmira: Cuenca Rio Amaime, Vda. la Nevera, Fca. la Victoria",9.8,2035
+"276",-75.968222,3.974528,3500,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Tulua: Santa Lucia, Cuenca Rio Tulua, Cgto. Santa Lucia, Fca. la Cascada",7.1,1811
+"277",-75.973444,3.981167,3125,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Tulua: Santa Lucia, Cuenca Rio Tulua, Cgto. Santa Lucia, Fca. la Cascada",8.4,1643
+"278",-75.600317,4.394933,2970,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Cordoba: Vda. Las Auras, Fca. el Porvenir",11,1509
+"279",-75.247583,5.697056,2935,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. Chaverras, Paramo Alto de Chaverras",11.6,2035
+"280",-77.218361,1.119194,3271,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Pasto: El Socorro Cimarron, Vda. Bajo Casanare",9.7,1927
+"281",-77.288472,0.969972,3140,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Pasto: Santa Barbara, Vda. Los Alisales",10.4,1573
+"282",-74.3992,3.92825,3243,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",9,1371
+"283",-74.402833,3.93235,3085,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",10,1307
+"284",-75.268278,5.809611,2917,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. Nori, Paramo Cerro Nori",12.2,2141
+"285",-73.251889,5.800556,3208,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Sotaquira: Vda. Guaguani",9.5,1113
+"286",-73.227306,5.415889,3295,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Rondon: Vda. Nueva Granada",9.8,1005
+"287",-72.987089,10.017458,2600,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: Agustin Codazzi: Vda. La Frontera",12.2,2060
+"288",-76.05675,6.507917,3374,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Caicedo: Vda. Anocozca, Paramo El Junco",10,2806
+"289",-77.582333,0.945556,3171,"Complejo de Paramos Chiles-Cumbal (CHC)","Narino","Narino: Gualmatan: Cuatis , Vda. Los Cedros",9.6,1236
+"290",-74.403267,3.932067,3082,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",10,1307
+"291",-74.399167,3.927367,3254,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",9,1371
+"292",-74.093381,4.345431,3492.7032,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"293",-74.399533,3.92805,3236,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",9,1371
+"294",-72.620889,6.664722,3175,"Complejo de Paramos Almorzadero (ALM)","Santander","Santander: Carcasi: Vda. Victarigua, La Palma, Alto de Curubita",7.7,1593
+"295",-75.377531,5.069175,3629,"Complejo de Paramos Los Nevados (NVS)","Caldas","Caldas: Manizales: Vda. El Desquite, Fca. Martinica, Reserva Forestal Protectora Rio Blanco",7,2361
+"296",-73.996139,4.549889,3350,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",8.6,1205
+"297",-74.40085,3.898667,3595,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",7.2,1522
+"298",-74.396217,3.91175,3429,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.1,1449
+"299",-74.402183,3.898183,3605,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",7.2,1522
+"300",-74.282061,4.200789,3769,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",6.4,1459
+"301",-72.913931,10.293381,2800,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: La Paz: Cgto. San Jose de Oriente",10.3,2005
+"302",-73.260306,5.810778,3354,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Sotaquira: Vda. Avendanos",10.1,1131
+"303",-73.252861,5.806417,3349,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Sotaquira: Vda. Guaguani",9.5,1113
+"304",-75.989806,3.310028,3120,"Complejo de Paramos Las Hermosas (HMS)","Tolima","Tolima: Rioblanco: Herrera, Cuenca Rio Hereje, Vda. las Mercedes, predio el Auxilio",8.9,2031
+"305",-75.973833,3.978861,3250,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Tulua: Santa Lucia, Cuenca Rio Tulua, Cgto. Santa Lucia, Fca. la Cascada",8.4,1643
+"306",-76.070889,3.538972,3045,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Palmira: Cuenca Rio Amaime, Vda. la Nevera, Fca. la Victoria",9.8,2035
+"307",-75.801167,4.000917,3420,"Complejo de Paramos Chili-Barragan (CBG)","Valle del Cauca","Valle del Cauca: Sevilla: Cuenca Rio Bugalagrande, Vda. Miraflores, Fca. la Traviata",7.9,1640
+"308",-75.990083,3.309611,3120,"Complejo de Paramos Las Hermosas (HMS)","Tolima","Tolima: Rioblanco: Herrera, Cuenca Rio Hereje, Vda. las Mercedes, predio el Auxilio",8.9,2031
+"309",-75.973194,3.9765,3375,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Tulua: Santa Lucia, Cuenca Rio Tulua, Cgto. Santa Lucia, Fca. la Cascada",8.4,1643
+"310",-75.429633,4.61885,3230,"Complejo de paramos Los Nevados (NVS)","Quindio","Quindio: Salento: Vda. Cocora, predio Estrella de Agua, Sector Paramo de Frontino",8.4,1883
+"311",-75.422717,4.615783,3390,"Complejo de paramos Los Nevados (NVS)","Quindio","Quindio: Salento: Vda. Cocora, predio Estrella de Agua, Sector Paramo de Frontino",7,1942
+"312",-72.922417,10.374889,2800,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Jagua del Pilar: Sitio Cerro Pintao",10.8,2049
+"313",-72.9246,10.373289,2800,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Jagua del Pilar: Sitio Cerro Pintao",10.8,2049
+"314",-72.9137,10.385044,2400,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Jagua del Pilar: Sitio Cerro Pintao",13.4,2175
+"315",-72.985386,10.015333,2600,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: Agustin Codazzi: Vda. La Frontera",12.1,2053
+"316",-72.984422,10.014356,2600,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: Agustin Codazzi: Vda. La Frontera",12.1,2053
+"317",-72.925628,10.372425,2800,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Jagua del Pilar: Sitio Cerro Pintao",10.8,2054
+"318",-74.093381,4.345281,3499.4088,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"319",-74.092831,4.35645,3242.2,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"320",-74.11795,4.254167,3289,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",8.6,1329
+"321",-74.002917,4.547528,3234,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"322",-74.117933,4.253017,3282,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",8.6,1329
+"323",-74.12345,4.237567,3153,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"324",-74.002528,4.548528,3246,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"325",-74.124333,4.239533,3210,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"326",-74.128161,4.254217,3292,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.5,1378
+"327",-74.309969,4.215689,3090,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",10.5,1134
+"328",-74.303219,4.215561,3267,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",9,1239
+"329",-74.123183,4.2375,3143,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"330",-74.400433,3.927483,3246,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",10,1307
+"331",-74.093311,4.345711,3486.912,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"332",-74.095347,4.355867,3351.5808,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"333",-72.636,7.154111,2861,"Complejo de Paramos Almorzadero (ALM)","Norte de Santander","Norte de Santander: Chitaga: Vda. Siaga",10.9,1133
+"334",-72.834083,6.986222,3210,"Complejo de Paramos Almorzadero (ALM)","Santander","Santander: Guaca: Cgto.Baraya, Vda. La Planada",8,1245
+"335",-72.604639,7.340861,2715,"Complejo de Paramos Tama (TMA)","Norte de Santander","Norte de Santander: Pamplona: Vda. Fontibon, Fca. Loma Larga",11.6,1047
+"336",-72.709972,7.098861,3200,"Complejo de Paramos Almorzadero (ALM)","Norte de Santander","Norte de Santander: Chitaga: Vda. El Roble, Fca. de Don Hector Arias",6.5,1337
+"337",-75.231531,4.899778,3488,"Complejo de Paramos Los Nevados (NVS)","Tolima","Tolima: Murillo: Cgto. El Bosque, Vda. La Cabana, Fca. El Recreo",7.4,2060
+"338",-75.973056,3.975583,3375,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Tulua: Santa Lucia, Cuenca Rio Tulua, Cgto. Santa Lucia, Fca. la Cascada",8.4,1643
+"339",-75.8039,4.088983,3625,"Complejo de Paramos Chili-Barragan (CBG)","Valle del Cauca","Valle del Cauca: Sevilla: Vda. San Juan, Fca. Miravalle",7.7,1669
+"340",-75.282889,5.347972,3537,"Complejo de Paramos Sonson (SSN)","Caldas","Caldas: Pensilvania: Vda. La Brigada, Paramo Valle Alto",7.6,2219
+"341",-77.396722,0.843194,3356,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Puerres: Puerres, Vda. El Rosal",8.8,1594
+"342",-76.715222,1.975083,3423,"Complejo de Paramos Sotara (STR)","Cauca","Cauca: La Vega: Vereda Monterredondo, Paramo de Barbillas",8.2,2131
+"343",-75.232714,4.643692,3684,"Complejo de Paramos Los Nevados (NVS)","Tolima","Tolima: Anzoategui: Cgto. Juntas, Vda. El Vergel, Hacienda Diostan",7.1,1880
+"344",-74.401767,3.898617,3603,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",7.2,1522
+"345",-74.28935,4.210189,3596,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",7.3,1371
+"346",-74.396983,3.911567,3420,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.1,1449
+"347",-74.2831,4.200939,3767,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",6.4,1459
+"348",-74.3969,3.911633,3420,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.1,1449
+"349",-74.283639,4.200911,3762,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",6.8,1416
+"350",-74.1101,4.254483,3644,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"351",-74.112817,4.255933,3473,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"352",-74.110183,4.254667,3635,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"353",-74.0984,4.3439,3675.2784,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"354",-74.110233,4.25455,3639,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"355",-75.489433,4.806786,3946,"Complejo de Paramos Los Nevados (NVS)","Risaralda","Risaralda: Santa Rosa de Cabal: Vda. La Linda, Sector Cortaderal, Hacienda La Sierra",4.9,2166
+"356",-74.0936,4.345961,3488.436,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"357",-74.093631,4.34615,3486.3024,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"358",-76.078083,3.537361,3420,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Palmira: Cuenca Rio Amaime, Vda. la Nevera, Fca. la Victoria",8.1,2004
+"359",-74.006167,4.531944,3111,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1176
+"360",-74.289239,4.210281,3597,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",7.3,1371
+"361",-74.403517,3.931233,3053,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",10,1307
+"362",-75.973056,3.975806,3375,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Tulua: Santa Lucia, Cuenca Rio Tulua, Cgto. Santa Lucia, Fca. la Cascada",8.4,1643
+"363",-72.927336,10.356222,2800,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: La Paz: Sitio Sabana Rubia",11.9,2104
+"364",-72.925781,10.348428,2600,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: La Paz: Sitio Sabana Rubia",11.8,2100
+"365",-76.076167,3.539306,3295,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Palmira: Cuenca Rio Amaime, Vda. la Nevera, Fca. la Victoria",8.1,2004
+"366",-75.249111,5.697889,2881,"Complejo de Paramos Sonson (SSN)","Antioquia","Antioquia: Sonson: Vda. Chaverras, Paramo Alto de Chaverras",11.6,2035
+"367",-73.23575,5.4145,3121,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Rondon: Vda. Nueva Granada",10.7,939
+"368",-76.09948,6.002493,3530,"Complejo de Paramos Frontino-Urrao (FRU)","Choco","Choco: El Carmen de Atrato: Sitio Cerro Plateado, Complejo Paramuno Frontino",7.7,2587
+"369",-76.696861,1.707444,3074,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Cauca","Cauca: Santa Rosa: El Carmelo, Vda. Los Andes, Sector Las Animas",9.8,2067
+"370",-76.952083,1.470694,2999,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: El Tablon de Gomez: Las Mesas, Vda. La Lava, Laguna el Silencio",11.1,2314
+"371",-77.366861,0.842222,3300,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Puerres: Monopamba, Vda. Desmontes Alto",9.4,1548
+"372",-74.39925,3.9275,3255,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",9,1371
+"373",-74.39945,3.92805,3244,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",9,1371
+"374",-74.403233,3.932133,3081,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",10,1307
+"375",-74.112483,4.256483,3477,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"376",-72.627917,7.151222,3183,"Complejo de Paramos Almorzadero (ALM)","Norte de Santander","Norte de Santander: Chitaga: Vda. Siaga",9.1,1193
+"377",-76.073417,3.536528,3170,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Palmira: Cuenca Rio Amaime, Vda. la Nevera, Fca. la Victoria",9.8,2035
+"378",-72.924617,10.349169,2600,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: La Paz: Sitio Sabana Rubia",9.7,1997
+"379",-72.916331,10.385242,2400,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Jagua del Pilar: Sitio Cerro Pintao",13.4,2175
+"380",-72.914436,10.292092,2800,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: La Paz: Cgto. San Jose de Oriente",10.3,2005
+"381",-72.922081,10.379908,2600,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Jagua del Pilar: Sitio Cerro Pintao",12.1,2115
+"382",-72.923678,10.350158,2600,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: La Paz: Sitio Sabana Rubia",10.8,2046
+"383",-72.914572,10.290744,2800,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: La Paz: Cgto. San Jose de Oriente",10.4,2013
+"384",-77.222194,1.121556,3211,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Pasto: El Socorro Cimarron, Vda. Bajo Casanare",9.7,1927
+"385",-72.917733,10.38525,2400,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Jagua del Pilar: Sitio Cerro Pintao",13,2158
+"386",-72.92465,10.378975,2600,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Jagua del Pilar: Sitio Cerro Pintao",12.1,2115
+"387",-74.124467,4.239867,3220,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"388",-74.123517,4.237,3163,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"389",-74.123567,4.237133,3163,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"390",-74.1241,4.239467,3210,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"391",-74.123833,4.23975,3198,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"392",-74.12365,4.237533,3160,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"393",-72.9235,5.942867,2918,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Cerinza: Vda. Centro Rural",12.2,1068
+"394",-73.109389,5.547556,3670,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Toca: Via Toca y Pesca, Paramo La cortadera, Vda. La Chorrera",7.5,1244
+"395",-74.396,3.911767,3433,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.1,1449
+"396",-74.3963,3.91175,3420,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.1,1449
+"397",-74.2838,4.200869,3759,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",6.8,1416
+"398",-74.290369,4.211631,3579,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",7.3,1371
+"399",-74.3034,4.215469,3269,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",9,1239
+"400",-75.237761,4.644622,3847,"Complejo de Paramos Los Nevados (NVS)","Tolima","Tolima: Anzoategui: Cgto. Juntas, Vda. El Vergel, Hacienda Diostan",6.3,1928
+"401",-73.37625,5.75275,3516,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Combita: Vda. Santa Barbara",7.3,1312
+"402",-73.984833,4.550139,3470,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",8.7,1206
+"403",-74.40175,3.898683,3564,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",7.2,1522
+"404",-74.09645,4.34425,3590.8488,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"405",-74.113083,4.25525,3471,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"406",-74.112933,4.255967,3470,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"407",-72.734286,5.746239,3515,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Mongua: Vda. San Ignacio",7.6,1591
+"408",-72.964947,6.032719,3732,"Complejo de Paramos Guantiva-La Rusia (GLR)","Boyaca","Boyaca: Belen: Vda. San Jose de la Montana",5.6,1682
+"409",-76.099389,6.011222,3493,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Salgar: Vda. Santa Isabel, Paramo Cerro Plateado",9.2,2582
+"410",-74.095339,4.356083,3351.5808,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"411",-74.294019,4.214711,3423,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",8,1315
+"412",-73.108722,5.436833,3110,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Pesca: Via hacia Rondon y Zetaquira, Vda. La Carbonera",11.4,878
+"413",-75.604933,4.380683,3170,"Complejo de Paramos Chili-Barragan (CBG)","Quindio","Quindio: Cordoba: Vda. Las Auras, Fca. el Porvenir",8.8,1666
+"414",-72.922942,10.351369,2600,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: La Paz: Sitio Sabana Rubia",10.8,2046
+"415",-76.0346,6.514,3358,"Complejo de Paramos Frontino-Urrao (FRU)","Antioquia","Antioquia: Abriaqui: Vda. Corcovado, Paramo Pena",9.6,2819
+"416",-74.123883,4.237567,3164,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"417",-74.309531,4.215061,3104,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",10.5,1134
+"418",-74.003861,4.542194,3150,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"419",-74.403283,3.932333,3087,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",10,1307
+"420",-73.384472,5.734056,3067,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Arcabuco: Vda. Rupavita",9.8,1148
+"421",-74.403617,3.931283,3053,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",10,1307
+"422",-74.403417,3.93115,3048,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",10,1307
+"423",-74.095333,4.356028,3351.5808,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"424",-74.093386,4.345436,3351.276,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"425",-74.004,4.542222,3152,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"426",-74.293761,4.214169,3433,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",8,1315
+"427",-74.123667,4.23725,3161,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"428",-75.907246,5.476941,2780,"Complejo de Paramos Citara (CTR)","Risaralda","Risaralda: Mistrato: Sitio Cerro Paramillo, Complejo paramuno Citara",13.2,2732
+"429",-72.929947,10.357117,2800,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: La Paz: Sitio Sabana Rubia",11.9,2104
+"430",-74.094761,4.3571,3349.752,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"431",-75.277417,5.352778,3585,"Complejo de Paramos Sonson (SSN)","Caldas","Caldas: Pensilvania: Vda. La Brigada, Paramo Valle Alto",7.3,2244
+"432",-74.110167,4.254783,3641,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"433",-74.290369,4.211761,3576,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",7.3,1371
+"434",-74.110317,4.2546,3631,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"435",-76.070889,3.539,3045,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Palmira: Cuenca Rio Amaime, Vda. la Nevera, Fca. la Victoria",9.8,2035
+"436",-73.250083,5.811778,3530,"Complejo de Paramos Iguaque-Merchan (IGM)","Boyaca","Boyaca: Sotaquira: Vda. Guaguani",8.4,1170
+"437",-72.986244,10.016394,2600,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: Agustin Codazzi: Vda. La Frontera",12.1,2053
+"438",-72.923342,10.379381,2600,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Jagua del Pilar: Sitio Cerro Pintao",12.1,2115
+"439",-76.952111,1.470111,2996,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: El Tablon de Gomez: Las Mesas, Vda. La Lava, Laguna el Silencio",11.1,2314
+"440",-74.0045,4.543639,3152,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"441",-74.002472,4.5485,3241,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"442",-74.00625,4.532889,3103,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1176
+"443",-74.302919,4.215781,3278,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",9,1239
+"444",-74.294711,4.21435,3420,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",8,1315
+"445",-72.710139,7.102472,3040,"Complejo de Paramos Almorzadero (ALM)","Norte de Santander","Norte de Santander: Chitaga: Vda. El Roble, Fca. de Don Hector Arias",9.3,1134
+"446",-72.923619,10.374242,2800,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Jagua del Pilar: Sitio Cerro Pintao",10.8,2049
+"447",-72.913469,10.294717,2800,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: La Paz: Cgto. San Jose de Oriente",10.3,2005
+"448",-72.925781,10.348428,2600,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Paz: Sitio Sabana Rubia",11.8,2100
+"449",-76.943083,1.475028,3313,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: El Tablon de Gomez: Las Mesas, Vda. La Lava, Laguna el Silencio",9.6,2477
+"450",-77.238869,1.271042,3504,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Pasto: Buesaquillo, Vda. La Cuchilla",8.2,2067
+"451",-74.397017,3.911933,3421,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",8.1,1449
+"452",-74.006194,4.531944,3109,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1176
+"453",-73.997,4.551028,3339,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",8.8,1196
+"454",-74.113217,4.255367,3467,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"455",-74.4021,3.898233,3605,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",7.2,1522
+"456",-73.997,4.550889,3339,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",8.8,1196
+"457",-74.282211,4.2008,3768,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",6.4,1459
+"458",-76.708611,2.001056,3574,"Complejo de Paramos Sotara (STR)","Cauca","Cauca: La Vega: Vereda Monterredondo, Paramo de Barbillas",7.5,2264
+"459",-77.293528,0.987361,3504,"Complejo de Paramos La Cocha-Patascoy (LCP)","Narino","Narino: Tangua: Santander , Vda. Las Palmas",8.2,1878
+"460",-76.941944,1.475917,3336,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: El Tablon de Gomez: Las Mesas, Vda. La Lava, Laguna el Silencio",9.6,2477
+"461",-76.936583,1.522667,3530,"Complejo de Paramos Dona Juana-Chimayoy (DJP)","Narino","Narino: La Cruz: La Estancia, Vda. Paramito, Reserva Santa Helena",7.7,2461
+"462",-74.096411,4.344,3591.4584,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"463",-74.098361,4.3436,3675.5832,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"464",-74.0983,4.344561,3677.1072,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"465",-74.095336,4.356056,3351.5808,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",9,1251
+"466",-74.402283,3.89805,3608,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",7.2,1522
+"467",-72.734078,5.745111,3524,"Complejo de Paramos Tota-Bijagual-Mamapacha (TBM)","Boyaca","Boyaca: Mongua: Vda. San Ignacio",7.6,1591
+"468",-72.6375,6.751667,2880,"Complejo de Paramos Almorzadero (ALM)","Santander","Santander: Concepcion: Vda. Aguabri, Jurado",10.6,1258
+"469",-74.123917,4.23945,3210,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"470",-75.423767,4.618483,3390,"Complejo de paramos Los Nevados (NVS)","Quindio","Quindio: Salento: Vda. Cocora, predio Estrella de Agua, Sector Paramo de Frontino",6.9,1951
+"471",-74.093381,4.345431,3400.6536,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"472",-74.0965,4.343961,3596.64,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Chipaque: Vda. las Fruticas",7.7,1314
+"473",-74.112683,4.256367,3471,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",7.7,1373
+"474",-72.928636,10.356739,2800,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: La Paz: Sitio Sabana Rubia",11.9,2104
+"475",-72.925994,10.356108,2800,"Complejo de Paramos Perija (PRJ)","Cesar","Cesar: La Paz: Sitio Sabana Rubia",11.9,2104
+"476",-74.124183,4.2395,3206,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Une: Vda. Llanitos",9.6,1306
+"477",-74.294581,4.21435,3421,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",8,1315
+"478",-74.004444,4.542833,3144,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1164
+"479",-75.973806,3.98125,3125,"Complejo de Paramos Las Hermosas (HMS)","Valle del Cauca","Valle del Cauca: Tulua: Santa Lucia, Cuenca Rio Tulua, Cgto. Santa Lucia, Fca. la Cascada",8.4,1643
+"480",-74.282989,4.200911,3765,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Pasca: Vda. Quebradas",6.4,1459
+"481",-74.006917,4.530778,3103,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Ubaque: Reserva Ecologica Matarredonda",9.8,1176
+"482",-74.402183,3.898183,3603,"Complejo de Paramos Sumapaz-Cruz Verde (SCV)","Cundinamarca","Cundinamarca: Cabrera: Vda. de Hoyerias",7.2,1522
+"483",-72.924617,10.349169,2600,"Complejo de Paramos Perija (PRJ)","Guajira","Guajira: La Paz: Sitio Sabana Rubia",9.7,1997

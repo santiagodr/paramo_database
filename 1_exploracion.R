@@ -2,6 +2,12 @@
 ### Referencia: Montoya, P., Gonzalez, M. A., Tenorio, E. A., López‐Ordóñez, J. P., Pinto Gómez, A., Cueva, D., ... & Salgado‐Negret, B. (2018).
 ### A morphological database for 606 Colombian bird species.
 
+# En este codigo el objetivo es explorar la base de datos, extraer todas las 
+# coordenadas unicas en la base de datos, y extraer las variables
+# climaticas para esos puntos de la carpeta de datos de WorldClim. 
+# Se extraera inicialmente precipitacion y temperatura media anual 
+# y se exportaran esos subset de datos como csv
+
 #instalar paquetes sino se tienen usando install.packages("nombre del paquete")
 #cargar paquetes   
 suppressPackageStartupMessages(library(tidyverse))
@@ -77,3 +83,37 @@ climate <- mutate(climate, MAT=Tmean/10)
 # subconjunto final
 print(climate)
 climate %>% arrange(Elevation) %>% View()
+
+### 01 Noviembre 2021
+# repetir el proceso anterior pero ahora para todas las coordenadas en el subset de datos
+
+# extraer solo subset de datos con informacion de campo y exportarlo como csv
+field <- data %>% filter(Source == "Field")
+write.csv(field, file = "sub_datos/paramo_field.csv")
+
+# extraer puntos unicos de gps para este subset de datos y algunas variables de localidad
+coordinates <- field %>% 
+  distinct(decimalLongitude, decimalLatitude, Elevation, ParamoComplex, Department, Locality)
+
+# crear vectores con las coordenadas para visualizacion
+ID <- 1:483 # vector del numero de puntos
+long <- coordinates$decimalLongitude
+lat <- coordinates$decimalLatitude
+
+# visualizar estos puntos de GPS para confirmar que estan dentro de COL
+leaflet(data = coordinates) %>% 
+  addProviderTiles(providers$Esri.NatGeoWorldMap) %>% 
+  addCircleMarkers(~decimalLongitude, ~decimalLatitude, label=as.character(ID))
+
+# crear informacion espacial para las 483 coordenadas combinadas
+points <- SpatialPoints(coordinates[1:3], proj4string = r@crs)
+
+# extraer variables Tmean and Prec que fueron definidas en codigo1, unirlas a las coordenadas y
+# transformar Tmean a unidades correctas 
+clim <- extract(r, points)
+climate <- cbind.data.frame(coordinates, clim)
+climate <- mutate(climate, Tmean=Tmean/10) 
+
+# exportar subconjunto final de coordenadas y variables climaticas
+climate %>% arrange(Elevation) %>% View()
+write.csv(climate, file = "sub_datos/coordinates.csv")
