@@ -89,7 +89,7 @@ climate %>% arrange(Elevation) %>% View()
 
 # extraer solo subset de datos con informacion de campo y exportarlo como csv
 field <- data %>% filter(Source == "Field")
-write.csv(field, file = "sub_datos/paramo_field.csv")
+write_csv(field, "sub_datos/paramo_field.csv")
 
 # extraer puntos unicos de gps para este subset de datos y algunas variables de localidad
 coordinates <- field %>% 
@@ -116,4 +116,4 @@ climate <- mutate(climate, Tmean=Tmean/10)
 
 # exportar subconjunto final de coordenadas y variables climaticas
 climate %>% arrange(Elevation) %>% View()
-write.csv(climate, file = "sub_datos/coordinates.csv")
+write_csv(climate, "sub_datos/coordinates.csv")
