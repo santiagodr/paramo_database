@@ -67,7 +67,7 @@ plot(elevacion, xlab="Longitude", ylab="Latitude",
      xlim=c(min(long), max(long)))  #plot elevation profile for specific coordinates
 
 # crear puntos espaciales para las coordenadas
-points <- SpatialPoints(coordinates, proj4string = r@crs)
+points <- SpatialPoints(coordinates[,c("decimalLongitude","decimalLatitude")], proj4string = r@crs)
 
 # hay 19 variables en wordlclim pero vamos a extraer solo la numero 1 y 12 que son Temp media anual y precipitacion anual
 r <- r[[c(1, 12)]]
@@ -106,7 +106,7 @@ leaflet(data = coordinates) %>%
   addCircleMarkers(~decimalLongitude, ~decimalLatitude, label=as.character(ID))
 
 # crear informacion espacial para las 483 coordenadas combinadas
-points <- SpatialPoints(coordinates[1:3], proj4string = r@crs)
+points <- SpatialPoints(coordinates[,c("decimalLongitude","decimalLatitude")], proj4string = r@crs)
 
 # extraer variables Tmean and Prec que fueron definidas en codigo1, unirlas a las coordenadas y
 # transformar Tmean a unidades correctas 
