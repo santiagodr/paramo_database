@@ -4,10 +4,6 @@
 # en los datos de worldclim de las coordenadas unicas en la base de datos
 # el objetivo es identificar "clusters" de localidades similares ambientalmente
 
-# notes Climatic variables have different meanings and different ranges of values. 
-# To contribute equally to the value of dissimilarity between two LCs they need to be 
-# scaled to have identical ranges [using normalization] or similar ranges
-
 # instalar paquetes sino se tienen usando 
 # install.packages(c("FactoMineR", "factoextra"))
 
