@@ -87,6 +87,10 @@ res.hcpc$data.clust$clust
 envdata_clusters <- envdata %>% 
   mutate(clusters = res.hcpc$data.clust$clust)
 
+# exportar
+write_csv(envdata_clusters, "sub_datos/envdata_clusters.csv")
+
+
 # y podemos visualizar otras variables con esta asignación de clusters
 ggplot(envdata_clusters, aes(bio1_23, bio12_23, color = clusters)) +
   geom_point(size = 2) +
@@ -186,15 +190,19 @@ envdata %>%
 # y dar nombre unico a cada localidad (es decir combinacion de longitud y latitud unicas)
 # este nombre tendra las siglas del complejo de paramo y un numero unico.
 
+envdata_clusters <- read_csv("sub_datos/envdata_clusters.csv")
 locality <- 1:483 #crear vector
 
 coordinates_clusters <- envdata_clusters %>% 
   arrange(ParamoComplex, Department, Locality) %>%
   mutate(complex_code = str_extract(ParamoComplex, "\\(.+\\)"), #extraer codigo
          number_locality = locality, #adicionar numero unico
-         unique_locality = paste(complex_code, number_locality, sep = "_") #unirlos
+         unique_locality = paste(complex_code, number_locality, sep = "_"), #unirlos
+         unique_locality = str_replace(unique_locality, "\\)", ""), # borrar parentesis
+         unique_locality = str_replace(unique_locality, "\\(", "")
          ) %>% 
   select("decimalLongitude", "decimalLatitude", "Elevation", "ParamoComplex",
        "Department", "Locality", "clusters", "unique_locality")
 
+# exportar csv
 write_csv(coordinates_clusters, "sub_datos/coordinates_clusters.csv")
