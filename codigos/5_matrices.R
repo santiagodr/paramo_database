@@ -117,3 +117,42 @@ rasgos_means <- rasgos %>%
 
 write_csv(rasgos_means, "sub_datos/matriz_promedio_rasgos.csv")
 
+# Nota: para evitar NA's en los rasgos se puede extraer los promedios del rasgo
+# de las medidas de toda la base de datos (9892 registros) en lugar de solo las medidas de campo
+# por esto se genero otra matriz de rasgos proveniente de todas las medidas
+
+# importar base de datos global
+data <- read_tsv("datos/Montoya_etal_2018_database.txt")
+
+# promedio de rasgos para todas las especies
+rasgos_all <- data %>% 
+  select(22:37) %>% 
+  group_by(Species) %>% 
+  summarise(across(where(is.numeric), ~ mean(.x, na.rm = TRUE),
+                   .names = "mean_{.col}"))
+
+species <- rasgos_means$Species #nombres de las 179 especies en los datos de campo
+
+rasgos_new <- rasgos_all %>% 
+  filter(Species %in% species) #filtrar solo los datos de las 179 especies
+
+# revisar NA's
+map(rasgos_new, ~sum(is.na(.)))
+
+# tres rasgos presentan muchos NA's por lo cual se excluiran de esta nueva matriz de rasgos
+# $mean_halluxClaw
+# [1] 141
+# $mean_Wingspan
+# [1] 88
+# $mean_wingArea
+# [1] 37
+
+rasgos_new <- rasgos_new %>% 
+  select(-mean_halluxClaw, -mean_Wingspan, -mean_wingArea)
+
+rasgos_na <- rasgos_new %>% 
+  filter_all(any_vars(is.na(.)))
+
+# exportar nueva matriz y subset de especies con NA's en algun rasgo
+write_csv(rasgos_new, "sub_datos/matriz_promedio_rasgos_completa.csv")
+write_csv(rasgos_na, "sub_datos/matriz_promedio_rasgos_solo_na.csv")
