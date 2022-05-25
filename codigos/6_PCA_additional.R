@@ -169,7 +169,7 @@ table4 <- data.frame(res.desc$Dim.2)
 write.csv(table4, "tablas/PCA2_rasgos_correlation_variables_dimension2.csv")
 
 # grafica "biplot" de los rasgos y las especies
-pdf("figuras/PCA2_rasgos_biplot_localides_and_variables.pdf")
+pdf("figuras/PCA2_rasgos_biplot_rasgos_especies.pdf")
 fviz_pca_biplot(res.pca2, repel = TRUE,
                 col.var = "#2E9FDF", # Variables color
                 col.ind = "#696969"  # Individuals color
