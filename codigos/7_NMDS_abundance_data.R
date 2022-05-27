@@ -19,11 +19,11 @@ library(vegan)
 # NDMS 1 - el primer analisis se hara a nivel de localidades unicas, o en otras palabras, 
 # las 483 localidades definidas como coordenadas unicas.
 
-abundace <- read_csv("sub_datos/matriz_abundancias.csv") #Matriz de abundancias
-abundace # 179 especies en 483 localidades
+abundance <- read_csv("sub_datos/matriz_abundancias.csv") #Matriz de abundancias
+abundance # 179 especies en 483 localidades
 
 # transformar a matriz para usar la funcion metaMDS
-data_m <- as.matrix(abundace[, 2:180])
+data_m <- as.matrix(abundance[, 2:180])
 
 # NMDS1 
 set.seed(100)
@@ -192,3 +192,11 @@ data.scores3 %>%
   labs(color="Clusters")+
   stat_ellipse(alpha = 0.40)
 ggsave("figuras/nmds3_clusters_matriz de 115 comunidades.pdf", width = 10, height = 6)
+
+data.scores3 %>% 
+  ggplot(aes(x=NMDS1, y=NMDS2, color = ParamoComplex))+
+  geom_point(size=2) +
+  theme(panel.background = element_blank(), panel.border = element_rect(color="black", fill=NA, size = 1.2))+
+  labs(color="Complejo de Paramo")+
+  stat_ellipse(alpha = 0.40)
+ggsave("figuras/nmds3_por_complejos_matriz de 85 comunidades.pdf", width = 10, height = 6)
