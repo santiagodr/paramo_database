@@ -1,4 +1,5 @@
 ### 20-Mayo-2022
+# Santiago David
 
 # Codigo para producir PCA
 #- uno para las variables climaticas por localidad (igual al PCA en el codigo 4_multivariate.R)
@@ -180,3 +181,73 @@ dev.off()
 write.infile(res.pca2, "tablas/PCA2_rasgos_all_results.csv", sep = ";")
 
 
+#### Graficas adicionales - 02 Junio 2022
+
+### para el PCA1, grafica de las localidades con elipses de concentracion por paramo
+
+pdf("figuras/PCA1_localidades con elipses de concentracion por complejo de paramo.pdf", width = 10, height = 6)
+fviz_pca_ind(res.pca,
+             geom.ind = "point",
+             pointshape = 21,
+             fill.ind = envdata$ParamoComplex,
+             col.ind = "black",
+             mean.point = FALSE,
+             addEllipses = TRUE, # Concentration ellipses
+             legend.title = "Complejo de Páramos")  +
+  theme(panel.border = element_rect(color="black", fill=NA, size = 1.2))
+dev.off()
+
+pdf("figuras/PCA1_localidades con elipses de confianza por complejo de paramo.pdf", width = 10, height = 6)
+fviz_pca_ind(res.pca,
+             geom.ind = "point",
+             pointshape = 21,
+             fill.ind = envdata$ParamoComplex,
+             col.ind = "black",
+             mean.point = FALSE,
+             addEllipses = TRUE, ellipse.type = "confidence", # confidence ellipses
+             legend.title = "Complejo de Páramos")  +
+  theme(panel.border = element_rect(color="black", fill=NA, size = 1.2))
+dev.off()
+
+
+### para el PCA2
+### Para incluir informacion de los ordenes, necesitamos informacion de la base de datos de campo
+field_data <- read_csv("sub_datos/paramo_field_and_clusters.csv")
+
+ordenes <- field_data %>% 
+  distinct(Species, Order) %>% 
+  filter(!Species %in% c("Cyphorhinus thoracicus", "Elaenia albiceps", "Grallaricula cucullata",
+                         "Mecocerculus minor", "Oxypogon stubelii" )) # solo ordenes y especies
+
+# NOTE: "ordenes" larger than rasgos... three species of hummingbirds coded twice for two different orders
+# Colibri coruscans, Eriocnemis mosquera, and Metallura tyrianthina
+
+ordenes %>% 
+  group_by(Species) %>% 
+  filter(n() > 1)
+
+ordenes <- ordenes %>% 
+  distinct(Species, .keep_all = TRUE) #remove second order passeriformes for the three cases
+
+rasgos <- rasgos %>% 
+  left_join(ordenes) # add information about "Orden" to "rasgos"
+
+
+pdf("figuras/PCA2_rasgos_biplot_con elipses de concentracion por orden taxonomico.pdf", width = 10, height = 6)
+fviz_pca_biplot(res.pca2, repel = TRUE,
+                geom.ind = "point",
+                pointshape = 21,
+                fill.ind = rasgos$Order,
+                col.ind = "black",
+                mean.point = FALSE,
+                addEllipses = TRUE,
+                legend.title = "Orden taxonómico",
+                col.var = "#696969") +
+  theme(panel.border = element_rect(color="black", fill=NA, size = 1.2))
+dev.off()
+
+# total de especies por orden
+field_data %>% 
+  distinct(Species, .keep_all = T) %>% 
+  group_by(Order) %>% 
+  summarise(total = n()) %>% View()
