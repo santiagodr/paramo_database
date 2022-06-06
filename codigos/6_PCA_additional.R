@@ -38,6 +38,9 @@ envdata <- envdata %>%
          Prec_warmest_quarter = bio18_23,
          Prec_coldest_quarter = bio19_23)
 
+envdata <- envdata %>% 
+  mutate(ParamoComplex = str_replace(ParamoComplex,"paramos", "Paramos")) #fix typo in Los Nevados, "paramos" vs "Paramos"
+
 # construir PCA
 res.pca <- PCA(envdata[,7:25], scale.unit = TRUE, ncp = 5, graph = F) # mantener los 5 primeros componentes y estandarizar variables
 
@@ -251,3 +254,29 @@ field_data %>%
   distinct(Species, .keep_all = T) %>% 
   group_by(Order) %>% 
   summarise(total = n()) %>% View()
+
+
+# Grafica de coordilleras
+
+cordilleras <- read_csv("sub_datos/ClustersyCordilleras.csv")
+
+envdata <- envdata %>% 
+  left_join(cordilleras) # add cordilleras
+
+envdata <- envdata %>% 
+  mutate(Cordilleras = case_when(
+    ParamoComplex == "Complejo de Paramos Tama (TMA)" ~ "Oriental",
+    TRUE ~ Cordilleras)) # fix cordillera code for Tama not "Central", but "Oriental"
+
+pdf("figuras/PCA1_localidades con elipses de concentracion por cordillera.pdf", width = 10, height = 6)
+fviz_pca_ind(res.pca,
+             geom.ind = "point",
+             pointshape = 21,
+             fill.ind = envdata$Cordilleras,
+             col.ind = "black",
+             mean.point = FALSE,
+             addEllipses = TRUE, # Concentration ellipses
+             legend.title = "Complejo Montañoso")  +
+  theme(panel.border = element_rect(color="black", fill=NA, size = 1.2))
+dev.off()
+
