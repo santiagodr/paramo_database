@@ -206,3 +206,40 @@ coordinates_clusters <- envdata_clusters %>%
 
 # exportar csv
 write_csv(coordinates_clusters, "sub_datos/coordinates_clusters.csv")
+
+
+#### PARTE 5 ####
+# despues de la defensa se sugirio extraer los rangos de variacion climatica por complejo
+
+envdata_clusters <- envdata_clusters %>% 
+  rename(Annual_Mean_Temp = bio1_23,
+         Mean_Diurnal_Range = bio2_23,
+         Isothermality = bio3_23,
+         Temp_seasonality = bio4_23,
+         Max_Temp_warmest_month = bio5_23,
+         Min_Temp_coldest_month = bio6_23,
+         Temp_annual_range = bio7_23,
+         Mean_Temp_wettest_quarter = bio8_23,
+         Mean_Temp_driest_quarter = bio9_23,
+         Mean_Temp_warmest_quarter = bio10_23,
+         Mean_Temp_coldest_quarter = bio11_23,
+         Annual_Precipitation = bio12_23,
+         Prec_wettest_month = bio13_23,
+         Prec_driest_month = bio14_23,
+         Prec_seasonality = bio15_23,
+         Prec_wettest_quarter = bio16_23,
+         Prec_drier_quarter = bio17_23,
+         Prec_warmest_quarter = bio18_23,
+         Prec_coldest_quarter = bio19_23)
+
+
+envdata_clusters <- envdata_clusters %>% 
+  mutate(across(c(7,8,11:17), ~.x/10))
+
+envdata_clusters %>% 
+  group_by(clusters) %>% 
+  summarise(across(7:25, list(mean = mean, min = min, max = max))) %>% 
+  write_csv("sub_datos/mean_min_max_per_cluster.csv")
+  
+
+
